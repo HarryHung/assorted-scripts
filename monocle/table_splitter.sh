@@ -16,7 +16,7 @@ fi
 
 HEADER=$(head -1 $TABLE)
 
-SPLIT_SIZE="${2:-10000}"
+SPLIT_SIZE="${2:-15000}"
 
 tail -n +2 $TABLE | split -l $SPLIT_SIZE -d - ${TABLE_NAME}_split_
 
