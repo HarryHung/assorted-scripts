@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ "$1" == "-h" ] || [ -z "$1" ]; then
-  echo "Usage: table_splitter.sh <path to table> <number of rows (default: 10,000)>"
+  echo "Usage: table_splitter.sh <path to table> <number of rows (default: 15,000)>"
   exit 0
 fi
 
