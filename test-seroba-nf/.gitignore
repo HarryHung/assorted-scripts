@@ -1,0 +1,10 @@
+# Nextflow files
+.nextflow
+.nextflow.log*
+work
+
+# Pipeline files
+databases
+singularity_cache
+results
+output
