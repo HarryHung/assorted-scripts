@@ -3,4 +3,4 @@
 	url = https://github.com/sanger-pathogens/assorted-sub-workflows.git
 [submodule "test-ariba-db-nf/assorted-sub-workflows"]
 	path = test-ariba-db-nf/assorted-sub-workflows
-	url = https://github.com/sanger-pathogens/assorted-sub-workflows
+	url = https://github.com/sanger-pathogens/assorted-sub-workflows.git
