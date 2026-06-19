@@ -7,4 +7,7 @@ work
 databases
 singularity_cache
 results
-output
+output*
+error.*
+output.*
+*.csv
